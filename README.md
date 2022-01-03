@@ -1,2 +1,3 @@
 # move-google-maps-marker-animated-vuejs
-Created with CodeSandbox
+
+Learn how to move Google Maps marker smoothly, by animating a UFO marker.
